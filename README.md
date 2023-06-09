@@ -1,4 +1,4 @@
-`<a name="readme-top"></a>`
+
 
 <div align="center">
 
@@ -34,20 +34,20 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 Bookstore `<a name="about-project"></a>`
+# 📖 Bookstore 
 
 This is a online Bookstore App.
 
 **Bookstore** In this project, I built a Single Page App (SPA) that allows users to display add and remove books with title and author.
 
-## 🛠 Built With `<a name="built-with"></a>`
+## 🛠 Built With 
 
 - React
 - CSS
 - JavaScript(ES6)
 - JSX
 
-### Tech Stack `<a name="tech-stack"></a>`
+### Tech Stack 
 
 <details>
   <summary>Version Control</summary>
@@ -79,7 +79,7 @@ This is a online Bookstore App.
 
 <!-- Features -->
 
-### Key Features `<a name="key-features"></a>`
+### Key Features
 
 - **Navigation Bar**
 - **Book List**
@@ -89,7 +89,7 @@ This is a online Bookstore App.
 
 <!-- GETTING STARTED -->
 
-## 💻 Getting Started `<a name="getting-started"></a>`
+## 💻 Getting Started
 
 To get a local copy up and running, follow these steps.
 
@@ -144,9 +144,9 @@ To run tests, run the following command:
   npm test
 ```
 
-## 👥 Authors `<a name="authors"></a>`
+## 👥 Authors
 
-👤 **Gladwin Tshepo Ramantso**
+👤 **Gentil Kazaneza**
 
 - GitHub: [@kazaneza](https://github.com/kazaneza)
 - Twitter: [@kazaneza](https://twitter.com/kazaneza)
@@ -156,7 +156,7 @@ To run tests, run the following command:
 
 <!-- FUTURE FEATURES -->
 
-## 🔭 Future Features `<a name="future-features"></a>`
+## 🔭 Future Features
 
 - [ ] **Add reducers and actions**
 - [ ] **Use Redux in React components**
@@ -167,7 +167,7 @@ To run tests, run the following command:
 
 <!-- CONTRIBUTING -->
 
-## 🤝 Contributing `<a name="contributing"></a>`
+## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 
@@ -177,7 +177,7 @@ Feel free to check the [issues page](https://github.com/tsheporamantso/bookstore
 
 <!-- SUPPORT -->
 
-## ⭐️ Show your support `<a name="support"></a>`
+## ⭐️ Show your support
 
 If you like this project please follow us on github & twitter and also connect on Linkedin.
 
@@ -185,7 +185,7 @@ If you like this project please follow us on github & twitter and also connect o
 
 <!-- ACKNOWLEDGEMENTS -->
 
-## 🙏 Acknowledgments `<a name="acknowledgements"></a>`
+## 🙏 Acknowledgments
 
 I would like to thank Microverse for this exercise.
 
@@ -193,7 +193,7 @@ I would like to thank Microverse for this exercise.
 
 <!-- LICENSE -->
 
-## 📝 License `<a name="license"></a>`
+## 📝 License
 
 This project is [MIT](./LICENSE) licensed.
 

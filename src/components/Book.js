@@ -1,22 +1,22 @@
 import React from 'react';
 import PropTypes from 'prop-types';
 
-function Book({ title, author }) {
-  return (
-    <div className="booklist">
-      <h2>List of Books</h2>
-      <ul>
-        <li className="bookitems">
-          <p>{title}</p>
-          <p>{author}</p>
-          <button type="button" className="button key">Remove</button>
-        </li>
-      </ul>
-    </div>
-  );
-}
+const Book = ({ title, author }) => (
+  <>
+    <h3>{title}</h3>
+    <h4>{author}</h4>
+    <button type="button">Remove Book</button>
+  </>
+);
+
 Book.propTypes = {
-  title: PropTypes.string.isRequired,
-  author: PropTypes.string.isRequired,
+  title: PropTypes.string,
+  author: PropTypes.string,
 };
+
+Book.defaultProps = {
+  title: '',
+  author: '',
+};
+
 export default Book;
